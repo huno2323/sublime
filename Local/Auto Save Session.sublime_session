@@ -1399,6 +1399,35 @@
 					}
 				},
 				{
+					"file": "/Users/huno/Library/Application Support/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 18,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n  BRANCH:  On branch `master` tracking `origin/master`.\n  ROOT:    ~/Library/Application Support/Sublime Text 3\n  HEAD:    1374d01 first commit\n\n  UNTRACKED:\n    .gitignore\n\n  STAGED:\n    Installed Packages/PyV8/osx-p3/config.json\n    Local/Auto Save Session.sublime_session\n    Local/Session.sublime_session\n    Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414\n    Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info\n    Packages/User/Package Control.last-run\n    Packages/User/Package Control.merged-ca-bundle\n    Packages/User/encoding_cache.json\n    Packages/User/oscrypto-ca-bundle.crt\n    btt20180914.json\n\n  ###################                   ###############\n  ## SELECTED FILE ##                   ## ALL FILES ##\n  ###################                   ###############\n\n  [o] open file                         [a] stage all unstaged files\n  [s] stage file                        [A] stage all unstaged and untracked files\n  [u] unstage file                      [U] unstage all staged files\n  [d] discard changes to file           [D] discard all unstaged changes\n  [h] open file on remote\n  [M] launch external merge tool\n\n  [l] diff file inline                  [f] diff all files\n  [e] diff file                         [F] diff all cached files\n\n  #############                         #############\n  ## ACTIONS ##                         ## STASHES ##\n  #############                         #############\n\n  [c] commit                            [t][a] apply stash\n  [C] commit, including unstaged        [t][p] pop stash\n  [m] amend previous commit             [t][s] show stash\n  [p] push current branch               [t][c] create stash\n                                        [t][u] create stash including untracked files\n  [i] ignore file                       [t][g] create stash of staged changes only\n  [I] ignore pattern                    [t][d] drop stash\n\n  [B] abort merge\n\n  ###########\n  ## OTHER ##\n  ###########\n\n  [r]         refresh status\n  [?]         toggle this help menu\n  [tab]       transition to next dashboard\n  [SHIFT-tab] transition to previous dashboard\n  [.]         move cursor to next file\n  [,]         move cursor to previous file\n\n-\n\n",
+					"settings":
+					{
+						"buffer_size": 2233,
+						"line_ending": "Unix",
+						"name": "STATUS: Sublime Text 3",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "commit\n\n## To make a commit, type your commit message and press SUPER-ENTER. To cancel\n## the commit, close the window. To sign off on the commit, press SUPER-S.\n##\n## You may also reference or close a GitHub issue with this commit.  To do so,\n## type `#` followed by the `tab` key.  You will be shown a list of issues\n## related to the current repo.  You may also type `owner/repo#` plus the `tab`\n## key to reference an issue in a different GitHub repo.\n\n Installed Packages/PyV8/osx-p3/config.json         |    2 +-\n Local/Auto Save Session.sublime_session            | 1646 ++--\n Local/Session.sublime_session                      | 6908 +++++------------\n .../01524fae79697630d0454ba3fabd9414               |    2 +-\n .../01524fae79697630d0454ba3fabd9414.info          |    4 +-\n Packages/User/Package Control.last-run             |    2 +-\n Packages/User/Package Control.merged-ca-bundle     | 8090 ++++++++++----------\n Packages/User/encoding_cache.json                  |    2 +-\n Packages/User/oscrypto-ca-bundle.crt               | 8090 ++++++++++----------\n btt20180914.json                                   |  876 +++\n 10 files changed, 11880 insertions(+), 13742 deletions(-)\n",
+					"settings":
+					{
+						"buffer_size": 1190,
+						"line_ending": "Unix",
+						"name": "COMMIT: Sublime Text 3",
+						"scratch": true
+					}
+				},
+				{
 					"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/assets/scss/component/ui.tab.scss",
 					"settings":
 					{
@@ -2555,7 +2584,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -2758,7 +2787,7 @@
 								"translation.y": 174.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -2974,7 +3003,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -3189,7 +3218,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
@@ -3405,7 +3434,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
@@ -3618,7 +3647,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 10,
 							"type": "text"
 						},
 						{
@@ -3831,7 +3860,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 11,
 							"type": "text"
 						},
 						{
@@ -4010,7 +4039,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 12,
 							"type": "text"
 						},
 						{
@@ -4211,7 +4240,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 13,
 							"type": "text"
 						},
 						{
@@ -4316,7 +4345,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 11,
+							"stack_index": 14,
 							"type": "text"
 						},
 						{
@@ -4530,13 +4559,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 12,
+							"stack_index": 15,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 5,
+					"selected": 8,
 					"sheets":
 					[
 						{
@@ -4749,7 +4778,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 13,
+							"stack_index": 16,
 							"type": "text"
 						},
 						{
@@ -4948,7 +4977,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 14,
+							"stack_index": 17,
 							"type": "text"
 						},
 						{
@@ -5146,7 +5175,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 15,
+							"stack_index": 18,
 							"type": "text"
 						},
 						{
@@ -5341,7 +5370,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 16,
+							"stack_index": 19,
 							"type": "text"
 						},
 						{
@@ -5555,7 +5584,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -5570,8 +5599,8 @@
 								"selection":
 								[
 									[
-										203,
-										203
+										242,
+										242
 									]
 								],
 								"settings":
@@ -5739,11 +5768,416 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 17,
+							"file": "/Users/huno/Library/Application Support/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18,
+										18
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"git_gutter_is_enabled": true,
+									"git_savvy.repo_path": "/Users/huno/Library/Application Support/Sublime Text 3",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										529,
+										529
+									]
+								],
+								"settings":
+								{
+									"__vi_external_disable": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"default_dir": "/Users/huno/Library/Application Support/Sublime Text 3",
+									"git_gutter_is_enabled": false,
+									"git_savvy.help_hidden": false,
+									"git_savvy.interface": "status",
+									"git_savvy.repo_path": "/Users/huno/Library/Application Support/Sublime Text 3",
+									"git_savvy.status_view": true,
+									"git_savvy.tabbable": true,
+									"syntax": "Packages/GitSavvy/syntax/status.sublime-syntax",
+									"tab_size": 2
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"default_dir": "/Users/huno/Library/Application Support/Sublime Text 3",
+									"git_savvy.commit_on_close": false,
+									"git_savvy.commit_view": true,
+									"git_savvy.commit_view.amend": false,
+									"git_savvy.commit_view.help_text": "## To make a commit, type your commit message and press SUPER-ENTER. To cancel\n## the commit, close the window. To sign off on the commit, press SUPER-S.\n##\n## You may also reference or close a GitHub issue with this commit.  To do so,\n## type `#` followed by the `tab` key.  You will be shown a list of issues\n## related to the current repo.  You may also type `owner/repo#` plus the `tab`\n## key to reference an issue in a different GitHub repo.",
+									"git_savvy.commit_view.include_unstaged": false,
+									"git_savvy.get_long_text_view": true,
+									"git_savvy.prompt_on_abort_commit": true,
+									"git_savvy.repo_path": "/Users/huno/Library/Application Support/Sublime Text 3",
+									"rulers":
+									[
+										50
+									],
+									"syntax": "Packages/GitSavvy/syntax/make_commit.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 20,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/assets/scss/component/ui.tab.scss",
 							"semi_transient": false,
 							"settings":
@@ -5934,11 +6368,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 17,
+							"stack_index": 20,
 							"type": "text"
 						},
 						{
-							"buffer": 18,
+							"buffer": 21,
 							"file": "/Volumes/DATA/p_work/diagnosisfront/src/components/ListLocSearch/ListLocSearch.js",
 							"semi_transient": false,
 							"settings":
@@ -6131,11 +6565,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 18,
+							"stack_index": 21,
 							"type": "text"
 						},
 						{
-							"buffer": 19,
+							"buffer": 22,
 							"file": "/Volumes/DATA/p_work/encarWebPub/ROOT/html/test.jsp",
 							"semi_transient": false,
 							"settings":
@@ -6329,11 +6763,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 19,
+							"stack_index": 22,
 							"type": "text"
 						},
 						{
-							"buffer": 20,
+							"buffer": 23,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/css/detail.css",
 							"semi_transient": false,
 							"settings":
@@ -6516,11 +6950,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 20,
+							"stack_index": 23,
 							"type": "text"
 						},
 						{
-							"buffer": 21,
+							"buffer": 24,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/assets/scss/component/ui.paging.scss",
 							"semi_transient": false,
 							"settings":
@@ -6718,11 +7152,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 21,
+							"stack_index": 24,
 							"type": "text"
 						},
 						{
-							"buffer": 22,
+							"buffer": 25,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/html/ca/ca_carresult_l01.jsp",
 							"semi_transient": false,
 							"settings":
@@ -6901,7 +7335,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 22,
+							"stack_index": 25,
 							"type": "text"
 						}
 					]
@@ -6911,7 +7345,7 @@
 					"sheets":
 					[
 						{
-							"buffer": 23,
+							"buffer": 26,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/package.json",
 							"semi_transient": false,
 							"settings":
@@ -7123,11 +7557,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 23,
+							"stack_index": 26,
 							"type": "text"
 						},
 						{
-							"buffer": 24,
+							"buffer": 27,
 							"file": "/Volumes/DATA/p_work/encarMobilePub/ROOT/webpack.config.js",
 							"semi_transient": false,
 							"settings":
@@ -7325,11 +7759,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 24,
+							"stack_index": 27,
 							"type": "text"
 						},
 						{
-							"buffer": 25,
+							"buffer": 28,
 							"file": "/Volumes/DATA/p_work/encarweb/WebContent/index.htm",
 							"semi_transient": false,
 							"settings":
@@ -7538,11 +7972,11 @@
 								"translation.y": 470.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 25,
+							"stack_index": 28,
 							"type": "text"
 						},
 						{
-							"buffer": 26,
+							"buffer": 29,
 							"file": "/Volumes/DATA/p_work/diagnosisfront/src/components/RevInfoWrap/RevInfoWrap.js",
 							"semi_transient": false,
 							"settings":
@@ -7720,11 +8154,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 26,
+							"stack_index": 29,
 							"type": "text"
 						},
 						{
-							"buffer": 27,
+							"buffer": 30,
 							"file": "/Volumes/DATA/p_work/diagnosisfront/src/components/RevInfo/RevInfo.js",
 							"semi_transient": false,
 							"settings":
@@ -7902,7 +8336,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 27,
+							"stack_index": 30,
 							"type": "text"
 						}
 					]
