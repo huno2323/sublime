@@ -1,0 +1,12 @@
+// Settings in here override those in "GitSavvy/GitSavvy.sublime-settings",
+
+{
+    "graph_show_more_commit_info": false,
+    "show_full_commit_info": true,
+    "git_graph_args": ["log", "--pretty=format:%h %ad || %s, %an%d", "--date=format:%m/%d %H:%M", "--graph", "--first-parent"],
+    "tab_order": [
+        "status",
+        "branch",
+        "graph"
+    ],
+}

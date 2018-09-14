@@ -1,0 +1,58 @@
+// SublimeLinter Settings - User
+{
+	"styles": [
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+            "icon": "dot",
+            "types": [
+                "warning"
+            ]
+        },
+        {
+            "mark_style": "fill",
+            "priority": 1,
+            "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+            "icon": "circle",
+            "types": [
+                "error"
+            ]
+        }
+    ],
+    "gutter_theme": "Gutter Themes for SL",
+    "lint_mode": "manual",
+	"linters": {
+        "csslint": {
+            "@disable": false,
+            "args": [],
+            "errors": "",
+            "excludes": [],
+            "ignore": [
+                "important",
+                "adjoining-classes",
+                "import",
+                "ids",
+                "box-model",
+                "box-sizing",
+                "qualified-headings",
+                "unique-headings",
+                "floats",
+                "font-sizes",
+                "duplicate-background-images",
+                "order-alphabetical",
+                "fallback-colors",
+                "overqualified-elements",
+                "zero-units",
+                "star-property-hack",
+                "text-indent",
+                "underscore-property-hack",
+                "compatible-vendor-prefixes",
+                "vendor-prefix",
+                "display-property-grouping",
+                "universal-selector"
+            ],
+            "warnings": ""
+        }
+    }
+}

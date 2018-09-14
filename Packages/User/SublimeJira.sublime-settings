@@ -1,0 +1,6 @@
+{
+  "jira_server": "https://jira.encar.io",
+  "jira_login": "huno",
+  "jira_password": "para0907",
+  "jira_default_project": "IBM"
+}

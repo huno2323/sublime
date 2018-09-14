@@ -1,0 +1,85 @@
+[
+	{ "keys": ["super+1"],
+		"command": "side_bar_open_in_browser" ,
+		"args":{"paths":[], "type":"testing","browser": "chrome"}
+	},
+	{ "keys": ["super+2"],
+		"command": "side_bar_open_in_browser",
+		"args":{"paths":[], "type":"production","browser": "chrome"}
+	},
+	{"keys":["ctrl+1"], "command":"file_diff_clipboard"},
+	{"keys":["ctrl+2"], "command":"file_diff_tab"},
+	{"keys":["ctrl+3"], "command":"compare_width"},
+	{"keys":["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+	{"keys":["ctrl+a"], "command": "gs_show_status"},
+	{"keys":["ctrl+d"], "command": "gs_diff", "args": { "current_file": true }},
+	{"keys":["ctrl+shift+d"], "command": "gs_diff"},
+	{"keys":["ctrl+z"], "command": "gs_log", "args": { "current_file": true }},
+	{"keys":["ctrl+shift+z"], "command": "gs_log"},
+	{"keys": ["ctrl+s"],
+        "command": "gs_custom",
+        "args": {
+            "output_to_panel": true,
+            "args": ["log", "--pretty=format:%h %ad || %s, %an%d", "--date=format:%Y%m%d %H:%M", "--graph"],
+            "start_msg": "Starting pull (rebase)...",
+            "complete_msg": "Pull complete."
+        }
+	},
+	{"keys": ["ctrl+shift+s"], "command": "gs_custom", "args": {
+            "cmd": "log --name-only --pretty=format:'## %ad || %s - %an, %h' --date=format:'%Y-%m-%d %H:%M'",
+            "output": "view",
+            "async": false
+        }
+	},
+	{"keys": ["ctrl+x"], "command": "gs_custom", "args": {
+            "cmd": "log -m --first-parent --all --author=ohhun --pretty=format:'## %ad || %s - %an, %h' --date=format:'%Y-%m-%d %H:%M'",
+            "output": "view",
+            "async": false
+        }
+	},
+	{"keys": ["ctrl+shift+x"], "command": "gs_custom", "args": {
+            "cmd": "log -m --first-parent --all --pretty=format:'## %ad || %s - %an, %h' --date=format:'%Y-%m-%d %H:%M'",
+            "output": "view",
+            "async": false
+        }
+	},
+	{"keys": ["ctrl+f"], "command": "gs_custom", "args": {
+            "cmd": "log --name-status --pretty=format:'## %ad || %s - %an, %h' --date=format:'%Y-%m-%d %H:%M' ROOT/images",
+            "output": "view",
+            "async": false
+        }
+	},
+	{ "keys": ["ctrl+]"], "command": "git_gutter_next_change" },
+    { "keys": ["ctrl+["], "command": "git_gutter_prev_change" },
+    { "keys": ["ctrl+p"], "command": "git_gutter_diff_popup" },
+    { "keys": ["ctrl+c"], "command": "super_calculator" },
+    { "keys": ["ctrl+v"], "command": "terminal_view_open" },
+    { "keys": ["ctrl+q"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "config_name": "Default",
+            "cwd": "${file_path:${folder}}"
+        }
+    },
+    { "keys": ["ctrl+tab"], "command": "goto_definition" },
+    {
+    "keys": ["tab"],
+    "command": "expand_abbreviation_by_tab", 
+    "context": [{
+        "operand": "source.js", 
+        "operator": "equal", 
+        "match_all": true, 
+        "key": "selector"
+    },{
+        "key": "preceding_text", 
+        "operator": "regex_contains", 
+        "operand": "(\\b(a\\b|div|span|p\\b|button)(\\.\\w*|>\\w*)?)", 
+        "match_all": true
+    },{
+        "key": "selection_empty", 
+        "operator": "equal", 
+        "operand": true, 
+        "match_all": true
+    }]
+}
+    
+]
