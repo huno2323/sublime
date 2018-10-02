@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AutoAligner",
 		"AutoBackups",
 		"Babel",
 		"BlameHighlighter",
@@ -24,6 +25,7 @@
 		"Gutter Themes for SL",
 		"Handlebars",
 		"Hover Image Preview",
+		"HTML-CSS-JS Prettify",
 		"Insert Callback",
 		"JavaScript & NodeJS Snippets",
 		"JSON Reindent",
@@ -37,6 +39,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Predawn Monokai",
+		"Pretty JSON",
 		"QuickGotoAnything",
 		"SCSS",
 		"SideBarEnhancements",
